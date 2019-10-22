@@ -1,0 +1,1 @@
+Open this project in text editor and use a live server to see and modify examples, index2.html has all pages with links to them.
