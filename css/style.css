@@ -1,4 +1,21 @@
-p {
+/* p {
   color: red;
-  background-color:yellow;
+  font-size: 24px;
+} */
+
+p, h1 {
+  color:red;
 }
+
+div  p{
+  color: blue;
+}
+
+#first-paragraph {
+  color: green;
+}
+
+.first-paragraph {
+  color: yellowgreen;
+}
+
